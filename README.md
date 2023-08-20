@@ -7,4 +7,4 @@ Venta de guitarras, cursos y blogs la cual implementa un carrito el cual usa loc
 - Usa Css puro sin preprocesadores 
 - Usa una API creada en Strapi la cual nos provee las Guitarras y los blogs...
 
-Preview: 
+Preview: https://guitar-la-remix-liard.vercel.app/
